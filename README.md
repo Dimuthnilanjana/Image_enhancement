@@ -1,2 +1,2 @@
-# Image_enhancement
-Image enhancement tools in image processing technologies
+# Skin_cancer_detection
+Medical image procceing tools in image processing technologies
