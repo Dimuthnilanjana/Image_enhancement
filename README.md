@@ -11,3 +11,6 @@ Medical image procceing tools in image processing technologies
 # Video Demonstration
 
 [Watch the video demonstration here](https://youtu.be/jBd00myfiaw?si=-jGWzwa_eGQ79JKS)
+
+[See & Test The Web](https://thilinashalom.github.io/skin-cancer-detection/)
+
